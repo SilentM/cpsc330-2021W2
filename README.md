@@ -4,13 +4,13 @@
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Time and place of the final have been released by UBC (see below under Deliverables). Unfortunately, it seems that the room assigned will not have outlets for all laptops like our classroom does. I am evaluating our options, and I need to know how many people do not have a laptop with a battery capable of lasting for the entire exam (~2 hours). If that is your case, or if you do not have a laptop for the final, please fill in [this survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_bDuh89VDrGsZht4) **by next Monday, March 21st, 11:59pm.** If this does not apply to you, you do not need to do anything.
+Time and place of the final have been released by UBC (see below under Deliverables). 
 
 Before our Thursday lecture (17/3), please watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)
 
 Grades for HW5 are available for review on Gradescope. The deadline to submit regrade requests is Wednesday, 16/3 at 11:59 PM.
 
-HW6 is out and due on Monday, March 14th at 11:59 PM (updated deadline). Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is a summative homework and the longest so far. 
+HW7 is out and due on Monday, March 21st at 11:59 PM. Paired submissions are allowed. 
 
 
 
